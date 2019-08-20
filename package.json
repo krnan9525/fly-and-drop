@@ -1,0 +1,19 @@
+{
+  "name": "flyndrop",
+  "version": "1.0.0",
+  "description": "A click animation package providing out of the box fly and drop experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krnan9525/flyndrop.git"
+  },
+  "author": "Mark Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krnan9525/flyndrop/issues"
+  },
+  "homepage": "https://github.com/krnan9525/flyndrop#readme"
+}
